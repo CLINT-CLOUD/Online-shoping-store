@@ -12,6 +12,7 @@
   }
 
   header {
+    position: sticky;
     background-color: #007bff;
     color: #fff;
     padding: 1rem 0;
@@ -142,6 +143,7 @@
     text-align: center;
     padding: 1rem 0;
     margin-top: 2rem;
+  
   }
 
   @media (max-width: 768px) {
